@@ -1,0 +1,19 @@
+div{
+  width:200px;/*para el dos se descomenta y el tres*/
+
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+ /*margin-bottom: 10px;*//*para el primero y el dos*/
+/*  display: inline;*//*para el ultimo se descomenta*/
+/*margin-right: 10px;*//*para el tres*/
+/*display: inline-block;*//*para el tres*/
+}
+
+
+.bandera-amarilla{
+  background-color:#F78617;
+}
+.bandera-gris{
+  background-color:#2B2B2B;
+  color: #FFFFFF;
+}
